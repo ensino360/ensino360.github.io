@@ -1,0 +1,21 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/bem\ vindo.jpg);
+    background-size: cover;
+}
+
+button{
+    padding: 20px 32px;
+    background-color: #7902cd;
+    border: none;
+    color:  #7902cd;
+    font-size: 20px;
+    margin: 22px 67px;
+}
